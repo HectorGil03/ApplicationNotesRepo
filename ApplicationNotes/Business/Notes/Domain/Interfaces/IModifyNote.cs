@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Notes.Domain.Interfaces
 {
-    internal interface INotesRepository
+    internal interface IModifyNote
     {
-
     }
 }
