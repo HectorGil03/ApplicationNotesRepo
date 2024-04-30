@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 273,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Program.cs",
               "RelativeDocumentMoniker": "Business\\Program.cs",
@@ -58,13 +58,12 @@
               "RelativeToolTip": "Business\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:00:50.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T11:00:50.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Business",
+              "DocumentIndex": 0,
+              "Title": "Business.csproj",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
               "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Business.csproj",
@@ -76,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotesApi.csproj",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\NotesApi.csproj",
               "RelativeDocumentMoniker": "NotesApi\\NotesApi.csproj",
