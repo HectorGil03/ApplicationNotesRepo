@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Notes.Infraestructure.Contexts
+namespace NotesApi.Infraestructure.Contexts
 {
     public class NoteDbContext
     {
