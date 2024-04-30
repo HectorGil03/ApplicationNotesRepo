@@ -1746,11 +1746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\Notes\\Notes.csproj",
+      "projectUniqueName": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Notes\\Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\Notes\\Notes.csproj",
+      "projectPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Notes\\Notes.csproj",
       "packagesPath": "C:\\Users\\hector.gil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\Notes\\obj\\",
+      "outputPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Notes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hector.gil\\AppData\\Roaming\\NuGet\\NuGet.Config",

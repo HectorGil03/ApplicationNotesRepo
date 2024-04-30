@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/tG1UG9pCJm/WgDrflbGei5CTvLtSjgXGezHqgUJrVa9oWCkt3heu1Fr8KyIVX3RfABrbhTt5c2Lyjn9H0zahA==",
+  "dgSpecHash": "6LjXHemGEG29HKSpEHkmH5hyicTxkhBfp+CCs1PmjTulc08xtGZNqki/kDsD1IdV9ZoRB50/fi5reIfxCOuJhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hector.gil\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\hector.gil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

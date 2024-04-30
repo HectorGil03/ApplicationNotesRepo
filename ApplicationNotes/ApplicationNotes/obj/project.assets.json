@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
+      "projectUniqueName": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
       "projectName": "ApplicationNotesApi",
-      "projectPath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
+      "projectPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
       "packagesPath": "C:\\Users\\hector.gil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\ApplicationNotes\\obj\\",
+      "outputPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\ApplicationNotes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hector.gil\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sd8R5DiaogJ/wDjBdpxpGzFLElXC8tfmp7VrPPD3NpFcHtoMS4teSgkSst/UGy02Re8c+6TtnsaIhPY+ArpN3A==",
+  "dgSpecHash": "JfmiS9/Q3wFOGHdH8zcL7PQOyEc3L5N8R94yzovofSoBkD1bBRcQFzJ+S5AgsKe1xtdbJxRrhWCUq0Qn6TTi5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hector.gil\\source\\repos\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
+  "projectFilePath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\ApplicationNotes\\ApplicationNotesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hector.gil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\hector.gil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
