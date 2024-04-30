@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Notes.Domain.Interfaces
 {
-    internal interface IModifyNote
+    public interface IModifyNote<EntityNote>
     {
     }
 }

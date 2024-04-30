@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Notes.Domain.Interfaces
 {
-    public interface INotesRepository<EntityNote>
+    public interface INotesAdd<EntityNote>
     {
         EntityNote add(EntityNote entitynote);
     }

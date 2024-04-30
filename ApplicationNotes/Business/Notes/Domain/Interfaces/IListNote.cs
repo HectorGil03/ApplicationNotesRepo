@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Business.Notes.Domain.Interfaces
 {
-    public interface IDeleteNote<EntityNote>
+    public interface IListNote<EntityNote, EntityNoteId>
     {
-        void Delete(EntityNote entityNote);
+        List<EntityNote> GetAll();
+
+        EntityNote GetById(EntityNoteId entityNoteId);
     }
 }

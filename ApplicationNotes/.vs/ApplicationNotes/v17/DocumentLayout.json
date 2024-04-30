@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\ilistnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\ilistnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\imodifynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\imodifynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\ideletenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\ideletenote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\inotesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\inotesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|solutionrelative:notesapi\\infraestructure\\contexts\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\application\\services\\notesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\application\\services\\notesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\business\\notes\\domain\\interfaces\\inotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80009DF1-D8C2-4CB8-934C-77A23D21C86C}|Business\\Business.csproj|solutionrelative:business\\notes\\domain\\interfaces\\inotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E59F0B87-80FE-4E2D-A6C0-8F85EB7CB4E0}|NotesApi\\NotesApi.csproj|c:\\users\\hector.gil\\documents\\applicationnotesrepo\\applicationnotes\\notesapi\\notesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -42,60 +58,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 273,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
-              "RelativeDocumentMoniker": "NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
-              "RelativeToolTip": "NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:21:45.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NoteDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
-              "RelativeDocumentMoniker": "NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
-              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
-              "RelativeToolTip": "NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:21:20.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotesService.cs",
-              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Application\\Services\\NotesService.cs",
-              "RelativeDocumentMoniker": "Business\\Notes\\Application\\Services\\NotesService.cs",
-              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Application\\Services\\NotesService.cs",
-              "RelativeToolTip": "Business\\Notes\\Application\\Services\\NotesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:20:28.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INotesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\INotesRepository.cs",
-              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\INotesRepository.cs",
-              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\INotesRepository.cs",
-              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\INotesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:20:13.413Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -122,7 +86,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\Repositories\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\Repositories\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\Repositories\\INoteRepository.cs",
+              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\Repositories\\INoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:33:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IListNote.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IListNote.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\IListNote.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IListNote.cs",
+              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\IListNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:30:47.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IModifyNote.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IModifyNote.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\IModifyNote.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IModifyNote.cs",
+              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\IModifyNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:29:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IDeleteNote.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IDeleteNote.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\IDeleteNote.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\IDeleteNote.cs",
+              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\IDeleteNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:28:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "NotesApi\\Infraestructure\\Repositories\\NoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:21:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
+              "RelativeDocumentMoniker": "NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
+              "RelativeToolTip": "NotesApi\\Infraestructure\\Contexts\\NoteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:21:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotesService.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Application\\Services\\NotesService.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Application\\Services\\NotesService.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Application\\Services\\NotesService.cs",
+              "RelativeToolTip": "Business\\Notes\\Application\\Services\\NotesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:20:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotesAdd.cs",
+              "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\INotesAdd.cs",
+              "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Interfaces\\INotesAdd.cs",
+              "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Interfaces\\INotesAdd.cs",
+              "RelativeToolTip": "Business\\Notes\\Domain\\Interfaces\\INotesAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:20:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\Business\\Notes\\Domain\\Entities\\Note.cs",
               "RelativeDocumentMoniker": "Business\\Notes\\Domain\\Entities\\Note.cs",
@@ -135,20 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Program.cs",
               "RelativeDocumentMoniker": "NotesApi\\Program.cs",
               "ToolTip": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\Program.cs",
               "RelativeToolTip": "NotesApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T11:12:39.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "NotesApi.http",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\NotesApi.http",
               "RelativeDocumentMoniker": "NotesApi\\NotesApi.http",
@@ -161,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hector.gil\\Documents\\ApplicationNotesRepo\\ApplicationNotes\\NotesApi\\appsettings.json",
               "RelativeDocumentMoniker": "NotesApi\\appsettings.json",
