@@ -1,4 +1,5 @@
-﻿namespace Business.Notes.Domain.Interfaces.Repositories
+﻿using Business.Notes.Domain.Interfaces;
+namespace Business.Notes.Domain.Interfaces.Repositories
 {
     public interface INoteRepository<EntityNote, EntityNoteId> : INotesAdd<EntityNote>, IModifyNote<EntityNote>, IDeleteNote<EntityNoteId>, IListNote<EntityNote, EntityNoteId>
     {

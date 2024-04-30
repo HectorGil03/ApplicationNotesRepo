@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using Business.Notes.Domain.Interfaces;
 namespace Business.Notes.Application.Interfaces
 {
-    internal interface IServiceNotes
+    public interface IServiceNotes<EntityNote, EntityNoteId> : INotesAdd<EntityNote>, IModifyNote<EntityNote>, IDeleteNote<EntityNoteId>, IListNote<EntityNoteId, 
+        >
     {
+
     }
 }
