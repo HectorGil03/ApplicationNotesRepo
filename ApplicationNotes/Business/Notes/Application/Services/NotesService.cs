@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Notes.Application.Services
+namespace Business.Notes.Application.Services
 {
     public class NotesService
     {

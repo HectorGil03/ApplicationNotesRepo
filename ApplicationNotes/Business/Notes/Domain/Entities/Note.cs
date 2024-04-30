@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Notes.Domain.Entities
+namespace Business.Notes.Domain.Entities
 {
     public class Note
     {

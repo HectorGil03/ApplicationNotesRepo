@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Notes.Domain.Interfaces
+namespace Business.Notes.Domain.Interfaces
 {
     internal interface INotesRepository
     {
